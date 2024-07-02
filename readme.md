@@ -1,6 +1,3 @@
-### DP Dashboard
-
-DP Dashboard is a plugin developed by Tung Do for customizing the WordPress admin pages.  It is no longer maintained by DevPress, but we wanted to post the code to GitHub in case others would like to modify of build on top of it.
 
 ### About
 
